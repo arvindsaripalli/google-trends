@@ -1,10 +1,13 @@
 # Google trends data exploration
 A quick notebook that uses the `pytrends` package to interface with the google trends API. Uses `graphviz` to generate related search graphs based on a keyword that you provide. Some examples are shown below.
 
-Keyword: Bitcoin
+### Keyword: Bitcoin
+
 ![](Bitcoin.png)
 
-Keyword: Donald Trump
+
+### Keyword: Donald Trump
+
 ![](Donald-Trump.png)
 
 ## Setup
